@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pkl
+*.csv
+*.xlsx
+*.onnx
+dataset/
+test_footage/
+*.mp4
+*.avi
